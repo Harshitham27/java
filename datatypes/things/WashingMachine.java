@@ -18,7 +18,7 @@ public class WashingMachine {
 	}
 
 	public void rinse() {
-		System.out.println("Running rinse in gun");
+		System.out.println("Running rinse in washing machine");
 	}
 
 	public void show() {
